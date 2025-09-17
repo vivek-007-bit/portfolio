@@ -127,7 +127,7 @@ body {
     padding: 25px;
 }
 
-.left video {
+.left iframe {
     height: 100%;
     width: 100%;
     border: solid rgb(255, 255, 255) 20px;
@@ -345,5 +345,6 @@ body {
     cursor: pointer;
 
 }
+
 
 
