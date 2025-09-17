@@ -127,7 +127,7 @@ body {
     padding: 25px;
 }
 
-.left img {
+.left video {
     height: 100%;
     width: 100%;
     border: solid rgb(255, 255, 255) 20px;
@@ -343,4 +343,5 @@ body {
     width: 25px;
     margin-right: 5px;
     cursor: pointer;
+
 }
