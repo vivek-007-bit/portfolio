@@ -128,8 +128,8 @@ body {
 }
 
 .left video {
-    height: 240px;
-    width: 320px;
+    height: 100%;
+    width: 100%;
     border: solid rgb(255, 255, 255) 20px;
     border-radius: 10px;
 }
@@ -345,4 +345,5 @@ body {
     cursor: pointer;
 
 }
+
 
